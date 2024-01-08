@@ -144,6 +144,10 @@ ul {
     margin: 0 auto;
     background-position: center;
 }
+.section {
+    padding-top: 48px;
+    padding-bottom: 48px;
+}
 .icons-box {
     display: flex;
     align-items: center;
